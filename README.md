@@ -38,7 +38,7 @@
 ```
 
 ##### access:
-docker-machineのIPを確認して、そのIPにアクセスする。*デフォルトは192.168.99.100?
+docker-machineのIPを確認して、そのIPにアクセスする。*デフォルトは192.168.99.100?  
 `http://{docker-machineのIP}:8080/`
 
 ```shell
